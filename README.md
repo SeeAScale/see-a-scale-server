@@ -1,6 +1,7 @@
 # 프로젝트 소개
 과학 프로젝트 수행평가
 See A Scale
+백엔드 서버 레포지토리
 
 ## Commit Convention
 |Type|Description|
