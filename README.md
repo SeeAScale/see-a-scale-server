@@ -1,6 +1,6 @@
-# See A Scale - server
-물리량 규모 시각화 프로젝트 과학 수행평가
-See A Scale 서버 레포지토리
+# 프로젝트 소개
+과학 프로젝트 수행평가
+See A Scale
 
 ## Commit Convention
 |Type|Description|
